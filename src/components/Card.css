@@ -1,0 +1,14 @@
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 40%;
+  margin: 20px auto;
+  box-shadow: 6px 6px 6px #ccc;
+}
+p {
+  border-bottom: 1px solid #ccc;
+}
+
+.label {
+  font-weight: 800;
+}
