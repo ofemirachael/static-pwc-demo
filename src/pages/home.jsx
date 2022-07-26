@@ -34,7 +34,7 @@ function home() {
                   <h2>Devops/ deployment management</h2>
                   <p>React,.Net, C#</p>
                 </div>
-                <div className="training-track-card">
+                <div Name="training-track-card">
                   <h2>Internet of things (IoT)</h2>
                   <p>React,.Net, C#</p>
                 </div>
